@@ -6,7 +6,9 @@
 
 ## Project Preview
 
-<img width="1920" height="8223" alt="Result" src="https://github.com/user-attachments/assets/76a556f1-e3b7-4344-96cf-a7d75da2376c" />
+<p align="center">
+  <img src="./Result.png" width="100%" />
+</p>
 
 ---
 
